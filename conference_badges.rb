@@ -22,3 +22,5 @@ end
 
   assign_rooms.speakers do |assignment|
     puts assignment
+  end
+end
