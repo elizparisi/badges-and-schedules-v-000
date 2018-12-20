@@ -20,7 +20,7 @@ def printer(speakers)
     puts badge
 end
 
-  assign_rooms.speakers do |assignment|
-    puts assignment
+  assign_rooms.speakers do |room_assignment|
+    puts room_assignment
   end
 end
