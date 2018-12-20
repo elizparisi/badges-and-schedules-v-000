@@ -17,4 +17,5 @@ end
 
 def printer(speakers)
   batch_badge_creator.speakers do |badge|
-  assign_rooms.speakers do |room|
+  puts badge
+end
